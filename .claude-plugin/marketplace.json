@@ -1,0 +1,15 @@
+{
+  "name": "ttt3pu-ai-settings",
+  "owner": {
+    "name": "ttt3pu",
+    "email": "ttt3pu@gmail.com",
+    "url": "https://github.com/ttt3pu"
+  },
+  "description": "複数リポジトリで共有する Agent Skills の配信元",
+  "plugins": [
+    {
+      "name": "ai-settings",
+      "source": "./"
+    }
+  ]
+}

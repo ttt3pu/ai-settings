@@ -1,0 +1,13 @@
+{
+  "name": "ai-settings",
+  "version": "0.1.0",
+  "description": "複数リポジトリで共有する Agent Skills。ライブラリの Renovate automerge を安全に有効化する手順と、テストの命名・設計規約。",
+  "author": {
+    "name": "ttt3pu",
+    "email": "ttt3pu@gmail.com"
+  },
+  "homepage": "https://github.com/ttt3pu/ai-settings",
+  "repository": "https://github.com/ttt3pu/ai-settings",
+  "keywords": ["skills", "renovate", "automerge", "testing"],
+  "skills": "./skills/"
+}
