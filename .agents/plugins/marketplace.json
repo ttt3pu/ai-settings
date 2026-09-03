@@ -1,0 +1,21 @@
+{
+  "name": "ttt3pu-ai-settings",
+  "interface": {
+    "displayName": "ttt3pu ai-settings"
+  },
+  "plugins": [
+    {
+      "name": "ai-settings",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ttt3pu/ai-settings.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
