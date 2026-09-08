@@ -55,7 +55,7 @@ claude plugin install ai-settings@ttt3pu-ai-settings
 ### Codex
 
 ```sh
-codex plugin marketplace add ttt3pu/ai-settings
+codex plugin add ai-settings@ttt3pu-ai-settings
 ```
 
 マーケットプレイスを追加したあと、ChatGPT デスクトップアプリの Plugins Directory でこのマーケットプレイスを選んでインストールする（`codex plugin marketplace` サブコマンドはカタログの登録・更新用で、インストールはデスクトップアプリ側で行う）。
