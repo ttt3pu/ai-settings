@@ -1,7 +1,7 @@
 {
   "name": "ai-settings",
-  "version": "0.2.0",
-  "description": "複数リポジトリで共有する Agent Skills。安全なライブラリ自動マージ、テスト規約、Markdownによる計画・進捗管理。",
+  "version": "0.3.0",
+  "description": "複数リポジトリで共有する Agent Skills。コミット・PR作成、安全なライブラリ自動マージ、テスト規約、Markdownによる計画・進捗管理。",
   "author": {
     "name": "ttt3pu",
     "email": "ttt3pu@gmail.com"
@@ -13,7 +13,9 @@
     "renovate",
     "automerge",
     "testing",
-    "work-plan"
+    "work-plan",
+    "commit",
+    "pull-request"
   ],
   "skills": "./skills/"
 }

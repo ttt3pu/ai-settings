@@ -6,6 +6,8 @@
 
 | Skill | 内容 |
 | --- | --- |
+| [`commit`](skills/commit/SKILL.md) | 変更範囲に応じた検証、ブランチ選択、日本語のコミットメッセージ、履歴整理と push の判断手順 |
+| [`pr`](skills/pr/SKILL.md) | 日本語のタイトル・本文、デフォルトブランチと担当者設定、変更の意図・結果・検証を伝える PR 作成手順 |
 | [`enable-library-automerge`](skills/enable-library-automerge/SKILL.md) | ライブラリの Renovate minor/patch 自動マージを、プロダクト経路の回帰テストと CI 通過を条件に有効化する手順 |
 | [`shared-testing-conventions`](skills/shared-testing-conventions/SKILL.md) | テスト名を日本語の「◯◯こと」形にする命名規則、テスト対象の選び方、配置とスナップショットの扱い |
 | [`manage-work-plan`](skills/manage-work-plan/SKILL.md) | 計画冒頭のチェックリストに進捗を集約し、セッション間で再開・更新し、対象作業の完了後に done へ移動する手順 |
